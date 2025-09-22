@@ -1,29 +1,18 @@
-#include <stdio.h>
-
-// Desafio Super Trunfo - Países
-// carta 01
-
-int main(estado) {ceará
-  // código e01
-  // nome da cidade: aracaju
-  // população:9,20000
-  // área: 148.886 km
-  // pib: 6,33
-  // número de pontos turísticos: 55
-  
-  #include <stdio.h>
-
-// carta 02
-
-int main (estado) {bahia
-// código ah2
-// nome da cidade: salvador
-// população: 14.141.626
-// aréa: 567.295 km
-// pib: 279,4
-// número de pontos turísticos: 150
+# ===== Carta 1 =====
+estado1 = input("Ceará: ")
+codigo1 = input("A01: ")
+cidade1 = input("Aracaju: ")
+populacao1 = int(input("9,2 milões: "))
+area1 = float(input("Área (148.886 km²): "))
+pib1 = float(input("PIB (6,33 R$): "))
+pontos_turisticos1 = int(input("55: "))
 
 
-
-
-  
+# ===== Carta 2 =====
+estado1 = input("Bahia: ")
+codigo1 = input("A02: ")
+cidade1 = input("Salvador: ")
+populacao1 = int(input("14.141.626: "))
+area1 = float(input("Área (567.295 km²): "))
+pib1 = float(input("PIB (279,4 R$): "))
+pontos_turisticos1 = int(input("150: "))  
