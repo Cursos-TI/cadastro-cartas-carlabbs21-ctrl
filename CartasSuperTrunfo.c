@@ -9,10 +9,10 @@ pontos_turisticos1 = int(input("55: "))
 
 
 # ===== Carta 2 =====
-estado1 = input("Bahia: ")
-codigo1 = input("A02: ")
-cidade1 = input("Salvador: ")
-populacao1 = int(input("14.141.626: "))
-area1 = float(input("Área (567.295 km²): "))
-pib1 = float(input("PIB (279,4 R$): "))
-pontos_turisticos1 = int(input("150: "))  
+estado2 = input("Bahia: ")
+codigo2 = input("A02: ")
+cidade2 = input("Salvador: ")
+populacao2 = int(input("14.141.626: "))
+area2 = float(input("Área (567.295 km²): "))
+pib2 = float(input("PIB (279,4 R$): "))
+pontos_turisticos2 = int(input("150: "))  
